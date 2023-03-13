@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Surf_News</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_news">News</string>
+    <string name="menu_about">About</string>
+    <string name="cathegory">What do you want to read about?</string>
+    <string name="kostlin">kostlin</string>
+    <string name="by">by</string>
+</resources>
